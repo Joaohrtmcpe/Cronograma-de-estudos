@@ -1,0 +1,19 @@
+*{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: left;
+    text-decoration: underline;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th{
+    border: solid 1px black;
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
